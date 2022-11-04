@@ -77,6 +77,7 @@ h3{
     padding: 10px 20px 10px 20px;
     text-decoration: none;
     line-height: 5;
+    
   }
   
   .btn:hover {
@@ -89,10 +90,12 @@ h3{
     text-decoration: none;
   }
   .bottom-container{
+    
     background-color:#66BFBF;
     margin-bottom: 0;
     padding-top: 45px;
     padding-bottom:  45px; ;
+    
   }
   .footer-link{
     color:11999E;
@@ -134,5 +137,27 @@ h3{
     border-radius: 100px;
     width: 50%;
     margin: 50px auto 50px auto;
+  }
+  nav{
+    background-color: #045b5e;
+    height: 10%;
     
   }
+  .icon{
+    width: 5%;
+    float: left;
+    
+    margin-top: 20px;
+    margin-left: 20px;
+    
+  }
+  .brand{
+    display: inline-block;
+    color: #2bc4ad;
+    font-family: sacramento,cursive;
+    font-size: 30px;
+    text-align: center;
+    
+
+  }
+  
